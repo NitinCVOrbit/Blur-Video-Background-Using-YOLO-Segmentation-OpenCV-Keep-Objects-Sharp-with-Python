@@ -7,7 +7,7 @@ Keep detected objects sharp while automatically blurring the background using AI
 
 Watch the complete project tutorial on YouTube:
 
-[▶️ Watch the Video](YOUR_YOUTUBE_VIDEO_LINK)
+[▶️ Watch the Video](https://youtu.be/kPD7qvFWArQ)
 
 ## 🚀 Project Overview
 
